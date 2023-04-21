@@ -14,7 +14,7 @@ public class SwitchCaseDemo {
 
 
 
-            case "usa":
+            case "Usa":
                 System.out.println("Burgers");
                 break;
             case "italy":

@@ -15,7 +15,7 @@ public class LogicalOperator {
         String name="alper";
         int age=32;
         if(name.equals("alper")&& age==30){
-            System.out.println("you are the alper from batch 13");
+            System.out.println("you are the alper from batch 15");
         }else{
             System.out.println("i don't know u");
         }
